@@ -4,8 +4,6 @@
 
 **Everything here exists to make my own work faster.** I don't start from ideas — I start from whatever annoyed me that day.
 
-I come at this from product, not computer science. These are side projects, cleaned up just enough for other people to run.
-
 <!--stats:start-->21 projects · 100 stars · all built in 2026<!--stats:end-->
 
 ---
