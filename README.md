@@ -2,9 +2,9 @@
 
 ### hi, I'm 懒人哥 — mrlazyman
 
-I build **Claude Code / Codex skills that turn AI conversations into publishable content.**
+**Everything here exists to make my own work faster.** I don't start from ideas — I start from whatever annoyed me that day.
 
-I come at this from product, not computer science. Everything here started as a side project to scratch my own itch, then got cleaned up enough for other people to run.
+I come at this from product, not computer science. These are side projects, cleaned up just enough for other people to run.
 
 <!--stats:start-->21 projects · 100 stars · all built in 2026<!--stats:end-->
 
