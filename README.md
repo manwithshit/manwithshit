@@ -4,7 +4,7 @@
 
 **Everything here exists to make my own work faster.** I don't start from ideas — I start from whatever annoyed me that day.
 
-<!--stats:start-->23 projects · 109 stars · all built in 2026<!--stats:end-->
+<!--stats:start-->25 projects · 117 stars · all built in 2026<!--stats:end-->
 
 ---
 
